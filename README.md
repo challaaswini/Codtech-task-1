@@ -3,7 +3,7 @@ Company: CodTech solutions
 ID:CTo8DS7402
 Domain:Web development
 Duration:Aug 23 to Sep 23
-Mentor:SriLakshmi
+Mentor:Santhosh
 Project Overview: Web Development
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/173aa343-5a8f-485a-8be3-a74b6f2a6a99">
 
