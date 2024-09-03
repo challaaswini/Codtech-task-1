@@ -5,7 +5,8 @@ Domain:Web development
 Duration:Aug 23 to Sep 23
 Mentor:Santhosh
 Project Overview: Web Development
-<img width="953" alt="image" src="https://github.com/user-attachments/assets/173aa343-5a8f-485a-8be3-a74b6f2a6a99">
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/956c5e13-1cf7-4a57-bfd1-2478666bf9e2">
+
 
 Objective: The main objective of the web development project is to design, develop, and deploy a responsive, user-friendly, and functional website that meets the client's requirements. The website should enhance the client's online presence, improve user engagement, and achieve specific business goals, such as increasing sales, improving brand awareness, or providing information.
 
